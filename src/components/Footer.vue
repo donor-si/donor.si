@@ -1,7 +1,7 @@
 <template>
   <div class="px-4 lg:px-6 py-2.5 mx-auto max-w-screen-lg">
     <footer class="p-4 shadow flex items-center justify-between p-6 dark:bg-gray-800" style="filter: blur(0.7px);">
-      <span class="text-sm text-white sm:text-center dark:text-gray-400">2022, <a href="https://donor.si/" class="hover:underline">donor.si</a>. all rights reserved
+      <span class="text-sm text-white sm:text-center dark:text-gray-400">2023 <a href="https://donor.si/" class="hover:underline">donor.si</a>. all rights reserved
       </span>
       <ul class="flex items-center mt-3 text-sm text-white dark:text-gray-400 sm:mt-0">
         <li>
