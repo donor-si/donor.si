@@ -10,6 +10,9 @@
         <li>
           <a href="https://github.com/donor-si" class="mr-4 hover:underline md:mr-6">github</a>
         </li>
+        <li>
+          <a href="https://radio.donor.si" class="mr-4 hover:underline md:mr-6">radio</a>
+        </li>
       </ul>
     </footer>
   </div>

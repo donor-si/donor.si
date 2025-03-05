@@ -22,8 +22,7 @@
     "baseUrl": ".",
     "types": [
       "vue",
-      "@types/node",
-      "@types/lodash"
+      "@types/node"
     ],
     "paths": {
       "Assets/*": ["./assets/*"],
